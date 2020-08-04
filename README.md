@@ -8,10 +8,10 @@ Download this repository to your computer, and save all the files you see here i
 
 Step 1:
 download the full database in this link:
-https://refractiveindex.info/about
+https://refractiveindex.info/about.
 
 You can find the download link under the title
-"Download the database"
+"Download the database".
 The download link will have a name like: "[rii-database-0000-00-00.zip]"
 
 Step 2:
